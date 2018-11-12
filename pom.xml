@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 <modelVersion>4.0.0</modelVersion>
 <groupId>com.mkyong</groupId>
-<artifactId>NumberGenerator</artifactId>
+<artifactId>myapp</artifactId>
 <packaging>jar</packaging>
 <version>1.0.1-SNAPSHOT</version>
 <name>NumberGenerator</name>
@@ -50,7 +50,7 @@ http://localhost:8081/nexus/content/repositories/ARTECH/
 <snapshotRepository>	
 <id>luckysnap</id>
 <url>
-  http://localhost:8081/nexus/content/repositories/LAKS/
+http://localhost:8081/nexus/content/repositories/LAKS/ 
 </url>
 </snapshotRepository>
 </distributionManagement>
