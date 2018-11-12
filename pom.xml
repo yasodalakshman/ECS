@@ -50,7 +50,7 @@ http://localhost:8081/nexus/content/repositories/ARTECH/
 <snapshotRepository>	
 <id>luckysnap</id>
 <url>
-http://localhost:8081/nexus/content/repositories/luckysnap/
+  http://localhost:8081/nexus/content/repositories/LAKS/
 </url>
 </snapshotRepository>
 </distributionManagement>
